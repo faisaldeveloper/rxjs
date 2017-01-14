@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RxJS Boiler
 
 Boilerplate for building RxJS applications in a Webpack environment
@@ -44,6 +43,4 @@ $ npm start
 
 Visit [http://localhost:8000](http://localhost:8000)
 =======
-# rxjs
-rxjs observables, promises and other feature testing
->>>>>>> 2d3fca4c61c969ee9597747e51aeebb353431e18
+
